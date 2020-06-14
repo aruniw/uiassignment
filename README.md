@@ -1,6 +1,3 @@
 UI/UX Assignment
 
 FusionGrove is a one-fits-all dashboard has capability to monitor the performance of a single to multiple promotional campaigns. FusionGrove is handy tool and widely accepted among sales and marketing professionals. It does not matter whether you run promotional campaigns for medium and large enterprises, FusionGrove nicely fits in between with a comprehensive range of statistical analysis reports. Our dashboard provides the diversity in a very simple way where it consists of customizable graphical representations can be configured to different workflows according to what you need to see. 
-
-It is a matter of seconds, you need to log into FusionGrove, select out from the range of reports we already configured and then all information available at your side to forward or discuss with your stakeholders.
-
